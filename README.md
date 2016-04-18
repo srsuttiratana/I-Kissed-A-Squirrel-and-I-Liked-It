@@ -10,3 +10,6 @@
 'C:\Amazon\Lumberyard\1.1.0.0\dev\SamplesProject\Objects'. <br>
 7. Download Diner from the Levels folder and place that folder in <br>
 the Levels folder in the SamplesProject.<br>
+
+EDIT: It does not appear that steps 5-7 work. Sarah is trying to find a solution right now <br>
+and will let you guys know! <br>

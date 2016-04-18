@@ -1,0 +1,8 @@
+<Material MtlFlags="524288" Shader="Illum" GenMask="C0000080" StringGenMask="%BUMP_MAP%SPEC_MAP%SUBSURFACE_SCATTERING" SurfaceType="mat_default" MatTemplate="" Diffuse="0.35640016,0.35640016,0.35640016" Specular="1,1,1" Emissive="0,0,0" Shininess="255" Opacity="1" LayerAct="1">
+ <Textures>
+  <Texture Map="Diffuse" File="objects/beachcity/props/diner_foodstuffs/2d/food_stuffs_diff.tif"/>
+  <Texture Map="Specular" File="objects/beachcity/props/diner_foodstuffs/2d/food_stuffs_spec.tif"/>
+  <Texture Map="Bumpmap" File="objects/beachcity/props/diner_foodstuffs/2d/food_stuffs_ddna.tif"/>
+ </Textures>
+ <PublicParams SSSIndex="0" IndirectColor="0.25,0.25,0.25"/>
+</Material>

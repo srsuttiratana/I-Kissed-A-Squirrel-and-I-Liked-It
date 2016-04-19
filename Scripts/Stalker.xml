@@ -1,5 +1,5 @@
 <BehaviorTree name = "Stalker">
-
+<!--Behavior Tree for Stalker Squirrel-->
 	<Variables>
 		<Variable name="HasTarget"/>
 		

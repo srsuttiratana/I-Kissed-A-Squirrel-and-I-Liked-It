@@ -1,0 +1,81 @@
+<BehaviorTree name = "Stalker">
+
+	<Variables>
+		<Variable name="HasTarget"/>
+		
+		<!--Player is looking at Stalker-->
+		<Variable name="TargetLooking"/>
+		
+		<!--Player approached Stalker-->
+		<Variable name="TargetApproached"/>
+		
+		<!--Player encountered Stalker for the 1st time-->
+		<Variable name="TargetApproached1"/>
+		
+		<!--Player encountered Stalker for the 2nd time-->
+		<Variable name="TargetApproached2"/>
+		
+		<!--Player encountered Stalker for the 3rd time-->
+		<Variable name="TargetApproached3"/>
+	</Variables>
+
+	<SignalVariables>
+		<!--Player has been seen-->
+		<Signal name = "OnSomethingSeen" variable="HasTarget" value="true"/>
+		
+		<!--Player is not seen/has been lost-->
+		<Signal name="OnNoTarget" variable="HasTarget" value="false"/>
+		<Signal name="OnLostSightOfTarget" variable="HasTarget" value="false" />
+		
+		<!--Player is looking at Stalker-->
+		<Signal name="OnPlayerLooking" variable="TargetLooking" value="true" />
+		
+		<!--Player is looking at Stalker-->
+		<Signal name="OnPlayerLookingAway" variable="TargetLooking" value="false" />
+		
+		<!--Player approached Stalker-->
+		<Signal name="OnCloseContact" variable="TargetApproached" value="true" />
+	</SignalVariables>
+
+	<Timestamps>
+	</Timestamps>
+
+	<Root>
+		<Selector>
+			<IfCondition condition = "HasTarget">
+				<Move to "Target" speed="Run" stance="Stand" avoidDangers="0" stopWithinDistance="10"/>	
+			</IfCondition>
+			
+			<IfCondition condition = "TargetApproached">
+				<IfCondition condition = "TargetApproached1 == false">
+					<!--Execute First Encounter-->
+					<ExecuteLua code="entity:firstEncounter()" variable="TargetApproached1" value="true"/>
+					
+				</IfCondition>
+				<IfCondition condition = "TargetApproached1 && TargetApproached2 == false">
+					<!--Execute Second Encounter-->
+					<ExecuteLua code="entity:secondEncounter()" variable="TargetApproached2" value="true"/>
+					
+				</IfCondition>
+				<IfCondition condition = "TargetApproached1 && TargetApproached2 && TargetApproached3 == false">
+					<!--Execute Third Encounter-->
+					<ExecuteLua code="entity:thirdEncounter()" variable="TargetApproached3" value="true"/>
+					
+				</IfCondition>
+			</IfCondition>
+			<IfCondition condition = "TargetLooking">
+				<Sequence>
+					<!--Basically, do nothing-->
+					<SetAlertness value="0"/>
+					<Stance name="Relaxed"/>
+					<Animate name="ZZ_AI_idleBreak"/>
+					<Halt/>
+
+				</Sequence>
+			</IfCondition>
+			
+			
+		</Selector>
+	</Root>
+
+</BehaviorTree>

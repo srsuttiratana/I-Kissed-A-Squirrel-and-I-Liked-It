@@ -1,5 +1,5 @@
 ﻿# I Kissed a Squirrel and I Liked It
-
+<b>NOTE: Please upload all assets to the shared Google Drive folder! We can upload our scripts here for version control purposes. </b><br><br>
 <b>Pre-Requisites</b><br>
 1. Download the Beach City assets at http://aws.amazon.com/lumberyard/downloads/<br>
 2. Extract the files from the zip file. There should be a folder called 'dev' that all files are placed in. <br>

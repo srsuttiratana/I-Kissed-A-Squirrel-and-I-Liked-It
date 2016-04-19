@@ -11,4 +11,9 @@
 8. Place the folders 'Diner' and 'open_world' (which are in this repository under 'Levels') in the path C:\Amazon\Lumberyard\1.1.0.0\dev\BeachCity\Levels.<br> 
 9. Open Lumberyard Project Configurator and configure the 'BeachCity' project.<br>
 
-FYI: The objects that I uploaded here on Github for BeachCity didn't seem to work. :( So you have to download the entire BeachCity to get it to work. Sorry! <br>
+EDIT: If you don't want all the Beach City assets, you only need the following Objects in the Beach City folder: <br>
+- BeachCity\Architecture\Diner<br>
+- Everything under BeachCity\Props that begins with "Diner_"<br>
+- BeachCity\Props\JukeBox<br>
+
+I think that's all the assets you need from Beach City. But if I'm missing one, let me know!<br>

@@ -1,0 +1,24 @@
+<BehaviorTree>
+	<BehaviorTree name="NPCTree">
+	<Variables>
+		<Variable name="AwareOfPlayer"/>
+	</Variables>
+	<SignalVariables>
+		<Signal name="OnCloseContact" variable="AwareOfPlayer" value="true"/>
+		<Signal name="OnPlayerLookingAway" variable="AwareOfPlayer" value="false"/>
+	</SignalVariables>
+	<LeafTranslations />
+	<Priority name="Root">
+		<Leaf name="NPCwalking" condition != "AwareOfPlayer">
+		<Leaf name="NPCidle" condition="AwareOfPlayer">
+	</Priority>
+	<Root>
+		<Selector>
+			<IfCondition condition="AwareOfPlayer">
+				<Look at="Target"/>
+				<Animate name=”Idle” />
+			</IfCondition>
+			<Animate name=”Walk” />
+		</Selector>
+	</Root>
+</BehaviorTree>

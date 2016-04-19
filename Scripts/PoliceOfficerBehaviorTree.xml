@@ -1,0 +1,19 @@
+<BehaviorTree name="PoliceOfficer">
+	<Variables>
+		<Variable name="SawStalker"/>
+	</Variables>
+	<SignalVariables>
+		<Signal name="OnEnemySeen" variable="SawStalker" value="true"/>
+	</SignalVariables>
+	<Root>
+		<Parallel successMode="all" failureMode="all">
+			<!--Check if stalker is seen-->
+			<IfCondition condition="SawStalker">
+				<Bubble message="YOU'RE NOT GETTING AWAY!" duration="4.0" balloon="true" log="true"/>
+				<Animate name="Tackle">
+				<Move to="Target"/>
+			</IfCondition>
+			<!--Put waypoint patrol here-->
+		</Parallel>
+	</Root>
+<BehaviorTree>

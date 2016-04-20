@@ -3,7 +3,7 @@
 <b>Pre-Requisites</b><br>
 1. Download the Legacy Code at http://aws.amazon.com/lumberyard/downloads/<br>
 2. Download the Beach City assets at http://aws.amazon.com/lumberyard/downloads/<br>
-3. Extract the files from the zip file for the Legacy Code. Cut the folder called 'GameSDK' and place it in 'C:\Amazon\Lumberyard\1.1.0.0\dev'.
+3. Extract the files from the zip file for the Legacy Code. Cut the folder called 'GameSDK' and place it in 'C:\Amazon\Lumberyard\1.1.0.0\dev'.<br>
 4. Extract the files from the zip file. There should be a folder called 'dev' that all files are placed in. <br>
 5. Within Beach City's 'dev' folder, there should be 4 folders. Place whatever is in 'Code', 'Cache' and 'Bin64' in their respective folders within C:\Amazon\Lumberyard\1.1.0.0\dev.<br>
 6. There should be one more folder called 'Beach City'. Place this folder under C:\Amazon\Lumberyard\1.1.0.0\dev. <br>

@@ -9,7 +9,7 @@
 6. Download the Woodland Asset Collection here: http://aws.amazon.com/lumberyard/downloads/<br>
 7. Extract the files from the zip file.<br>
 8. From the zip file, cut the folders within the 'Objects' folder and paste them into       'C:\Amazon\Lumberyard\1.1.0.0\dev\GameSDK\Objects'<br>
-9. Place the folders 'Diner' and 'open_world' (which are in this repository under 'Levels') in the path C:\Amazon\Lumberyard\1.1.0.0\dev\GameSDK\Levels.<br> 
+9. Place the folders 'Diner' and 'Dense Forest World' (which are in the Google Drive) in the path C:\Amazon\Lumberyard\1.1.0.0\dev\GameSDK\Levels.<br> 
 10. Open Lumberyard Project Configurator and configure the 'GameSDK' project.<br>
 
 EDIT: If you don't want all the Beach City assets, you only need the following Objects in the Beach City folder: <br>

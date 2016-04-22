@@ -23,6 +23,8 @@
 		<Signal name="OnNoTarget" variable="HasTarget" value="false"/>
 		<Signal name="OnLostSightOfTarget" variable="HasTarget" value="false" />
 		<Signal name="OnPlayerLooking" variable="HasTarget" value="false" />
+		<Signal name="OnPlayerLookingAway" variable="HasTarget" value="true" />
+		<Signal name="OnPlayerSticking" variable="HasTarget" value="true" />
 		<Signal name="OnCloseCollision" variable="HasTarget" value="true" />
 	</SignalVariables>
 
@@ -43,13 +45,15 @@
 
 				<Transitions>
 					<Transition to="Combat" onEvent="OnNewAttentionTarget"/>
+					<Transition to="Combat" onEvent="OnPlayerLookingAway"/>
+					<Transition to="Combat" onEvent="OnPlayerSticking"/>
 				</Transitions>
 
 				<BehaviorTree>
 
 					<Sequence>
 
-						<SetAlertness value="0"/>
+						<SetAlertness value="2"/>
 
 						<ExecuteLua code="entity.actor:HolsterItem(true)"/>
 
@@ -85,7 +89,7 @@
 
 						<SetAlertness value="2"/>
 
-						<Communicate name="TargetSpottedWhileSearching" channel="Reaction" expirity="1.0" waitUntilFinished="0" />
+						<!-- <Communicate name="TargetSpottedWhileSearching" channel="Reaction" expirity="1.0" waitUntilFinished="0" /> -->
 
 						<!-- main combat loop -->
 						<Loop _startLog="main combat loop">
@@ -127,8 +131,11 @@
 
 				<Transitions>
 					<Transition to="Idle" onEvent="GoTo_Idle"/>
-					<!-- <Transition to="Combat" onEvent="OnNewAttentionTarget"/> -->
-					<Transition to="Idle" onEvent="OnNewAttentionTarget"/>
+					<Transition to="Combat" onEvent="OnNewAttentionTarget"/>
+					<Transition to="Combat" onEvent="OnCloseCollision"/>
+					<Transition to="Combat" onEvent="OnPlayerLookingAway"/>
+					<Transition to="Combat" onEvent="OnPlayerSticking"/>
+					<!-- <Transition to="Idle" onEvent="OnNewAttentionTarget"/> -->
 				</Transitions>
 
 				<BehaviorTree>
@@ -143,10 +150,16 @@
 
 						<Parallel successMode="any">
 
-							<Animate name="AI_SearchLookAround" loop="1"/>
+							<!-- <Animate name="AI_SearchLookAround" loop="1"/> -->
+							
+							<ExecuteLua code="entity.actor:HolsterItem(true)"/>
+
+							<Stance name="Relaxed"/>
+
+							<Animate name="ZZ_AI_idleBreak"/>
 
 							<SuppressFailure>
-								<Timeout duration="10"/>
+								<Timeout duration="999"/>
 							</SuppressFailure>
 
 						</Parallel>

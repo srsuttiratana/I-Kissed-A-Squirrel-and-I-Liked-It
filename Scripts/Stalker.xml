@@ -22,6 +22,7 @@
 		<Signal name="OnNewAttentionTarget" variable="HasTarget" value="true"/>
 		<Signal name="OnNoTarget" variable="HasTarget" value="false"/>
 		<Signal name="OnLostSightOfTarget" variable="HasTarget" value="false" />
+		<!--<Signal name="OnPlayerLooking" variable="HasTarget" value="false" />-->
 	</SignalVariables>
 
 	<Timestamps>
@@ -134,7 +135,7 @@
 
 						<SuppressFailure>
 	
-							<Move to="Target" speed="Run" stance="Stand" avoidDangers="0" stopWithinDistance="0"/>
+							<Move to="Target" speed="Run" stance="Stand" avoidDangers="0" stopWithinDistance="15"/>
 
 						</SuppressFailure>
 

@@ -1,3 +1,3 @@
 ﻿# Font Files
-Add these font files into: C:\Amazon\Lumberyard\1.1.0.0\dev\Engine\Fonts
+Add these font files into: C:\Amazon\Lumberyard\1.1.0.0\dev\Engine\Fonts<br>
 This is to make the font for the UI look a little nicer...

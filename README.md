@@ -19,3 +19,6 @@ EDIT: If you don't want all the Beach City assets, you only need the following O
 - BeachCity\Props\JukeBox<br>
 
 I think that's all the assets you need from Beach City. But if I'm missing one, let me know!<br>
+
+<b>Keeping Track of the Player's Score Across Levels</b><br>
+I created a file called "PlayerScore.xml". It should be in the GameSDK folder, because otherwise Lumberyard can't find it. It seems that there are problems with game tokens being transferred across different levels. So one of the solutions was to store the score in an xml file. Basically, I plan on having a game token in each level keep track of how many points the player has accumulated through the conversation. After the conversation is over, PlayerScore.xml will be opened and I will extract the score from it. I will then add the score from PlayerScore.xml to the game token. Then I will set the value in PlayerScore.xml to the game token's modified value, and save the xml document. It's weird because I can see that the xml file doesn't appear to have changed after the level. However, after I go through the conversation again, the score stored in the xml file has been saved from the last conversation (I can see through the debug log). <br>

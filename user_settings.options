@@ -1,0 +1,90 @@
+[Game Projects]
+enabled_game_projects = GameSDK
+
+[Incredibuild Options]
+use_incredibuild = False
+use_incredibuild_win = False
+use_incredibuild_durango = False
+use_incredibuild_orbis = False
+use_incredibuild_android = False
+incredibuild_max_cores = 16
+auto_update_incredibuild_settings = False
+
+[Visual Studio Project Generator]
+generate_vs_projects_automatically = True
+visual_studio_solution_name = GameSDK
+visual_studio_solution_folder = Solutions
+specs_to_include_in_project_generation = all, game_and_engine, resource_compiler, Game
+msvs_version = 12
+
+[Durango Options]
+deploy_durango = True
+deploy_durango_kits = 
+durango_paks = False
+
+[Android Deploy]
+deploy_android = False
+deploy_android_clean_device = False
+deploy_android_executable = False
+deploy_android_replace_apk = False
+deploy_android_root_dir = /storage/emulated/legacy
+deploy_android_install_options = 
+deploy_android_paks = False
+
+[Build Options]
+version = 1.1.0.0
+generate_debug_info = True
+generate_map_file = False
+use_precompiled_header = True
+use_uber_files = False
+uber_file_size = 307200
+use_static_code_analyzer = False
+max_parallel_link = 2
+gems_optional = True
+use_debug_code_generator = False
+
+[Output Folder]
+out_folder_win64 = Bin64
+out_folder_durango = BinDurango
+out_folder_mac64 = BinMac64
+out_folder_orbis = BinOrbis
+out_folder_ios = BinIos
+out_folder_linux32_gcc = BinLinux32gcc
+out_folder_linux64_gcc = BinLinux64gcc
+out_folder_linux32_clang = BinLinux32clang
+out_folder_linux64_clang = BinLinux64clang
+out_folder_android_armv7 = BinAndroid
+output_folder_ext_debug = Debug
+output_folder_ext_profile = 
+output_folder_ext_performance = Performance
+output_folder_ext_release = Release
+
+[Mac Project Generator]
+generate_mac_projects_automatically = True
+mac_project_name = LumberyardSDK
+mac_project_folder = Solutions
+default_project_to_build = SamplesProject, 
+
+[Misc Options]
+max_cores = 8
+ly_launcher_param = --none --enablecapability compilegame --enablecapability compileengine --enablecapability compilesandbox --no-modify-environment
+ly_launcher_third_party_override = 
+
+[Android Project Generator]
+generate_android_projects_automatically = False
+android_projects_folder = Solutions/android
+default_project_to_build = SamplesProject, 
+
+[iOS Project Generator]
+generate_ios_projects_automatically = True
+ios_project_name = LumberyardiOSSDK
+ios_project_folder = Solutions
+default_project_to_build = SamplesProject, 
+
+[Orbis Options]
+deploy_orbis_clean_target = True
+deploy_orbis = True
+deploy_orbis_executable = True
+deploy_orbis_kits = 
+orbis_paks = False
+

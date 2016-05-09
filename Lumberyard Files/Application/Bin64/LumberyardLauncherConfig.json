@@ -1,0 +1,69 @@
+{
+    "Comment" : "This file for users to add any capabilities and SDKs wanted. ",
+    "CodeFolderName" : "Code",
+    "ToolsFolderName" : "Tools",
+    "RememberEngineRootFolder" : false,
+    "Capabilities" :
+    [
+    ],
+    "SDKs" :
+    [
+		{   
+            "comment" : "SFML - Audio/Visual Library for C++. Alternative to WWise.",
+            "identifier" : "sfml",
+            "name" : "SFML 2.3.2",
+            "version" : "v2.3.2 for VS(2012) x64",
+            "optional" : 0,
+            "description" : "SFML Description Summary: SFML - Audio/Visual Library for C++. Alternative to WWise.",
+            "detailedInstructions" : "SFML Detailed Instructions. Download from http://www.sfml-dev.org/download/sfml/2.3.2/. Extract to Lumberyard/ver_number/3rdParty. Make a folder called 'sfml' in the directory with 'bin' and copy 'bin', 'include', and 'lib' into it. In 'lib' make a folder called 'sfml-audio' and copy 'sfml' into it.",
+            "tags" : ["compilegame"],
+            "symlinks" :
+            [
+				{
+                    "source" : "SFML-2.3.2/sfml",
+                    "destination" : "$CODEFOLDERNAME$/Sandbox/SDKs/SFML-2.3.2/sfml",
+					"exampleFile" : "include/SFML/Graphics.hpp"
+                },
+                {
+                    "source" : "SFML-2.3.2/lib",
+                    "destination" : "$CODEFOLDERNAME$/Sandbox/SDKs/SFML-2.3.2/lib",
+					"exampleFile" : "sfml-audio"
+                },
+				{
+                    "source" : "SFML-2.3.2/include",
+                    "destination" : "$CODEFOLDERNAME$/Sandbox/SDKs/SFML-2.3.2/include",
+					"exampleFile" : "SFML/Graphics.hpp"
+                },
+                {
+                    "source" : "SFML-2.3.2/bin",
+                    "destination" : "$CODEFOLDERNAME$/Sandbox/SDKs/SFML-2.3.2/bin",
+					"exampleFile" : "openal32.dll"
+                },
+                {
+                    "source" : "SFML-2.3.2/sfml",
+                    "destination" : "$CODEFOLDERNAME$/SDKs/SFML-2.3.2/sfml",
+					"exampleFile" : "include/SFML/Graphics.hpp"
+                },
+				{
+                    "source" : "SFML-2.3.2/lib",
+                    "destination" : "$CODEFOLDERNAME$/SDKs/SFML-2.3.2/lib",
+					"exampleFile" : "sfml-audio"
+                },
+				{
+                    "source" : "SFML-2.3.2/include",
+                    "destination" : "$CODEFOLDERNAME$/SDKs/SFML-2.3.2/include",
+					"exampleFile" : "SFML/Graphics.hpp"
+                },
+                {
+                    "source" : "SFML-2.3.2/bin",
+                    "destination" : "$CODEFOLDERNAME$/SDKs/SFML-2.3.2/bin",
+					"exampleFile" : "openal32.dll"
+                }
+     
+            ]
+        }
+    ],
+    "MayaEnvironments" :
+    [
+    ]
+}

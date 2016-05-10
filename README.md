@@ -28,3 +28,6 @@ I created a file called "PlayerScore.xml". It should be in the GameSDK folder, b
 1. Follow the instructions here: http://docs.aws.amazon.com/lumberyard/latest/userguide/game-build-game-code.html <br>
 2. Change the user_settings.options file in 'C:\Amazon\Lumberyard\1.1.0.0\dev\_WAF_' to the user_settings.options here on GitHub.<br>
 3. Type 'lmbr_waf configure' from the command prompt within the 'C:\Amazon\Lumberyard\1.1.0.0\dev' folder.<br>
+
+<b>To Add the Gametoken for Scores</b><br>
+Add scores.xml to C:\Amazon\Lumberyard\1.1.0.0\dev\GameSDK\libs\GameTokens

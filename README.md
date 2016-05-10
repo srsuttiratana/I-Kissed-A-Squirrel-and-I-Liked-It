@@ -31,3 +31,4 @@ I created a file called "PlayerScore.xml". It should be in the GameSDK folder, b
 
 <b>To Add the Gametoken for Scores</b><br>
 Add scores.xml to C:\Amazon\Lumberyard\1.1.0.0\dev\GameSDK\libs\GameTokens <br>
+Add PlayerScore.xml to C:\Amazon\Lumberyard\1.1.0.0\dev\GameSDK <br>

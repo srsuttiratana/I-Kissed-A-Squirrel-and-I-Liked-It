@@ -46,11 +46,15 @@ public:
   virtual void GetConfiguration(SFlowNodeConfig& config)
   {
     static const SInputPortConfig in_config[] = {
-		InputPortConfig<InputPortConfig_AnyType>("StartPlaying", _HELP("Play audio.")),
+		//InputPortConfig<InputPortConfig_AnyType>("StartPlaying", _HELP("Play audio.")),
+		InputPortConfig_Void( "StartPlaying",_HELP("Play audio.") ),
 		InputPortConfig<string>("Audio_File", _HELP("Audio file path.")),
       {0}
     };
     static const SOutputPortConfig out_config[] = {
+		OutputPortConfig<int>("Result", _HELP("Outputs -1 if song couldn't play.")),
+		OutputPortConfig_Void("False", _HELP("Triggered if if song couldn't play.")),
+		OutputPortConfig_Void("True",  _HELP("Triggered if if song could play.")),
       {0}
     };
     config.sDescription = _HELP( "Plays audio using the SFML library." );
@@ -63,27 +67,32 @@ public:
   {
      switch (event)
      {
-		 playAudio(Audio_File.value);
+		 //playAudio(Audio_File.value);
+		 const string& audio_file = GetPortString(pActInfo, 1);
+		 const int result = playAudio(audio_file);
+		 ActivateOutput( pActInfo, 0, result);
      };
   }
 };
 
-void playAudio(string file_name)
+bool playAudio(string file_name)
 {
 	sf::Music music;
 	if (!music.openFromFile(file_name))
 	{
-		cout << "Couldn't open file.\n";
+		//cout << "Couldn't open file.\n";
+		return false;
 	}
 	else
 	{
 		music.play();
-		cout << "Successfully playing song." << endl;
+		//cout << "Successfully playing song." << endl;
 		while (music.getStatus() == sf::SoundSource::Playing)
 		{
 
 		}
-		cout << "Song is over." << endl;
+		//cout << "Song is over." << endl;
+		return true;
 	}
 }
  

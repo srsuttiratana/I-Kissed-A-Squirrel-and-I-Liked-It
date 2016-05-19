@@ -1,3 +1,5 @@
+NOTE: Some files were too big to upload to GitHub so SOME FILES ARE MISSING. Check Google Drive 'WWise Audio Files' folder instead.
+
 Create the following folders in the following locations:
 - 'Sounds' in Lumberyard\1.1.0.0\dev\GameSDK
 	- drop 'wwise' & 'wwise_project' into 'Sounds'

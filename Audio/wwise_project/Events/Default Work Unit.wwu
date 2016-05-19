@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WwiseDocument Type="WorkUnit" ID="{52078C4A-C4CA-4E2C-A888-23BFF281184B}" SchemaVersion="70">
+	<Events>
+		<WorkUnit Name="Default Work Unit" ID="{52078C4A-C4CA-4E2C-A888-23BFF281184B}" PersistMode="Standalone">
+			<ChildrenList>
+				<Folder Name="GameSDK" ID="{B25B4B2D-CE4D-45E8-A139-10C6C82DCC93}" ShortID="258979007">
+					<ChildrenList>
+						<Event Name="Play_background_audio" ID="{4D5553AC-1541-4D68-A7AB-090D75AAA33D}">
+							<ChildrenList>
+								<Action Name="Play" ID="{EEDF385B-6541-4DE4-BE24-C70150A4AF4A}" ShortID="138302306" Type="Play" Scope="One" Global="false">
+									<ElementList>
+										<Element ID="{7940197A-FA47-4FF7-AAD6-5EDEDF2F37A5}" Global="false">
+											<ObjectRef Name="background_audio" ID="{70DDC681-97F5-4231-9188-D7A5D080C3C2}" WorkUnitID="{4280ED3D-A2FD-4406-A718-FA77E75E5240}"/>
+										</Element>
+									</ElementList>
+								</Action>
+							</ChildrenList>
+						</Event>
+						<Event Name="Play_S60" ID="{C3D9F7B7-8D95-4641-8C0F-20AAD8820486}">
+							<ChildrenList>
+								<Action Name="Play" ID="{10796D4E-34C3-4537-BEC9-245938B8F4E3}" ShortID="388069645" Type="Play" Scope="One" Global="false">
+									<ElementList>
+										<Element ID="{3906B932-E3E8-45E4-B611-4ECD917B1F76}" Global="false">
+											<ObjectRef Name="S60" ID="{F54FC455-C064-489E-BFAD-8E41C4584362}" WorkUnitID="{4280ED3D-A2FD-4406-A718-FA77E75E5240}"/>
+										</Element>
+									</ElementList>
+								</Action>
+							</ChildrenList>
+						</Event>
+					</ChildrenList>
+				</Folder>
+			</ChildrenList>
+		</WorkUnit>
+	</Events>
+</WwiseDocument>

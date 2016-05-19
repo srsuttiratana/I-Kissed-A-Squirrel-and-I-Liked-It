@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ValidationCache Version="1" SchemaVersion="70">
+	<ValidationCacheItem File="C:\Amazon\Lumberyard\1.1.0.0\dev\GameSDK\Sounds\wwise_project\i kissed a squirrel and i liked it\Actor-Mixer Hierarchy\Default Work Unit.wwu" DateLow="1207698842" DateHigh="30517071"/>
+	<ValidationCacheItem File="C:\Amazon\Lumberyard\1.1.0.0\dev\GameSDK\Sounds\wwise_project\i kissed a squirrel and i liked it\Attenuations\Default Work Unit.wwu" DateLow="1849389285" DateHigh="30517069"/>
+	<ValidationCacheItem File="C:\Amazon\Lumberyard\1.1.0.0\dev\GameSDK\Sounds\wwise_project\i kissed a squirrel and i liked it\Conversion Settings\Default Work Unit.wwu" DateLow="1849429185" DateHigh="30517069"/>
+	<ValidationCacheItem File="C:\Amazon\Lumberyard\1.1.0.0\dev\GameSDK\Sounds\wwise_project\i kissed a squirrel and i liked it\Effects\Default Work Unit.wwu" DateLow="1849489221" DateHigh="30517069"/>
+	<ValidationCacheItem File="C:\Amazon\Lumberyard\1.1.0.0\dev\GameSDK\Sounds\wwise_project\i kissed a squirrel and i liked it\Events\Default Work Unit.wwu" DateLow="1207728863" DateHigh="30517071"/>
+	<ValidationCacheItem File="C:\Amazon\Lumberyard\1.1.0.0\dev\GameSDK\Sounds\wwise_project\i kissed a squirrel and i liked it\Game Parameters\Default Work Unit.wwu" DateLow="1781302745" DateHigh="30519687"/>
+	<ValidationCacheItem File="C:\Amazon\Lumberyard\1.1.0.0\dev\GameSDK\Sounds\wwise_project\i kissed a squirrel and i liked it\i kissed a squirrel and i liked it.Gina Kwong.wsettings" DateLow="3152532474" DateHigh="30519690"/>
+	<ValidationCacheItem File="C:\Amazon\Lumberyard\1.1.0.0\dev\GameSDK\Sounds\wwise_project\i kissed a squirrel and i liked it\i kissed a squirrel and i liked it.wproj" DateLow="2785119531" DateHigh="30519689"/>
+	<ValidationCacheItem File="C:\Amazon\Lumberyard\1.1.0.0\dev\GameSDK\Sounds\wwise_project\i kissed a squirrel and i liked it\Master-Mixer Hierarchy\Default Work Unit.wwu" DateLow="1207753877" DateHigh="30517071"/>
+	<ValidationCacheItem File="C:\Amazon\Lumberyard\1.1.0.0\dev\GameSDK\Sounds\wwise_project\i kissed a squirrel and i liked it\Presets\Default Work Unit.wwu" DateLow="1849459201" DateHigh="30517069"/>
+	<ValidationCacheItem File="C:\Amazon\Lumberyard\1.1.0.0\dev\GameSDK\Sounds\wwise_project\i kissed a squirrel and i liked it\SoundBanks\Default Work Unit.wwu" DateLow="1849334120" DateHigh="30517069"/>
+	<ValidationCacheItem File="C:\Amazon\Lumberyard\1.1.0.0\dev\GameSDK\Sounds\wwise_project\i kissed a squirrel and i liked it\Soundcaster Sessions\Default Work Unit.wwu" DateLow="1849359131" DateHigh="30517069"/>
+	<ValidationCacheItem File="C:\Amazon\Lumberyard\1.1.0.0\dev\GameSDK\Sounds\wwise_project\i kissed a squirrel and i liked it\States\Default Work Unit.wwu" DateLow="1849234073" DateHigh="30517069"/>
+	<ValidationCacheItem File="C:\Amazon\Lumberyard\1.1.0.0\dev\GameSDK\Sounds\wwise_project\i kissed a squirrel and i liked it\Switches\Default Work Unit.wwu" DateLow="1849284087" DateHigh="30517069"/>
+</ValidationCache>

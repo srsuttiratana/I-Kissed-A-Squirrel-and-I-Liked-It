@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SoundBanksInfo Platform="Generic" BasePlatform="Windows" SchemaVersion="10" SoundbankVersion="113">
+	<RootPaths>
+		<ProjectRoot>C:\Amazon\Lumberyard\1.1.0.0\dev\GameSDK\Sounds\wwise_project\i kissed a squirrel and i liked it\</ProjectRoot>
+		<SourceFilesRoot>C:\Amazon\Lumberyard\1.1.0.0\dev\GameSDK\Sounds\wwise_project\i kissed a squirrel and i liked it\.cache\Generic\</SourceFilesRoot>
+		<SoundBanksRoot>C:\Amazon\Lumberyard\1.1.0.0\dev\GameSDK\Sounds\wwise\</SoundBanksRoot>
+		<ExternalSourcesInputFile></ExternalSourcesInputFile>
+		<ExternalSourcesOutputRoot>C:\Amazon\Lumberyard\1.1.0.0\dev\GameSDK\Sounds\wwise_project\i kissed a squirrel and i liked it\GeneratedSoundBanks\Generic\</ExternalSourcesOutputRoot>
+	</RootPaths>
+	<DialogueEvents/>
+	<StreamedFiles/>
+	<MediaFilesNotInAnyBank/>
+	<SoundBanks>
+		<SoundBank Id="1355168291" Language="SFX">
+			<ShortName>Init</ShortName>
+			<Path>Init.bnk</Path>
+		</SoundBank>
+		<SoundBank Id="2643612632" Language="SFX">
+			<ShortName>Content</ShortName>
+			<Path>Content.bnk</Path>
+			<IncludedEvents>
+				<Event Id="2992725861" Name="Play_background_audio"/>
+				<Event Id="3946455547" Name="Play_S60"/>
+			</IncludedEvents>
+			<IncludedMemoryFiles>
+				<File Id="485448367" Language="SFX">
+					<ShortName>S60.wav</ShortName>
+					<Path>SFX\S60_9E69E797.wem</Path>
+				</File>
+				<File Id="592840186" Language="SFX">
+					<ShortName>Banjo-Kazooie - Click Clock Wood (Spring) edit.wav</ShortName>
+					<Path>SFX\Banjo-Kazooie - Click Clock Wood (Spring) edit_9E69E797.wem</Path>
+				</File>
+			</IncludedMemoryFiles>
+		</SoundBank>
+	</SoundBanks>
+</SoundBanksInfo>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WwiseDocument Type="WorkUnit" ID="{4280ED3D-A2FD-4406-A718-FA77E75E5240}" SchemaVersion="70">
+	<AudioObjects>
+		<WorkUnit Name="Default Work Unit" ID="{4280ED3D-A2FD-4406-A718-FA77E75E5240}" PersistMode="Standalone">
+			<ChildrenList>
+				<Sound Name="background_audio" ID="{70DDC681-97F5-4231-9188-D7A5D080C3C2}" ShortID="936944895" Type="SoundFX">
+					<ReferenceList>
+						<Reference Name="Conversion">
+							<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{45D5B71A-130A-4426-A1E5-CBDFFA7A0DF1}"/>
+						</Reference>
+						<Reference Name="OutputBus">
+							<ObjectRef Name="SFX" ID="{78A19E32-CCCD-43C7-8625-3D5DFCF3549C}" WorkUnitID="{831CE32D-4C55-4D68-82F9-9D17FE3F817A}"/>
+						</Reference>
+					</ReferenceList>
+					<ChildrenList>
+						<AudioFileSource Name="Banjo-Kazooie - Click Clock Wood (Spring) edit" ID="{F56D3DDE-2311-40C4-AC3C-68F2A9BDC927}" ShortID="592840186">
+							<Language>SFX</Language>
+							<AudioFile>Banjo-Kazooie - Click Clock Wood (Spring) edit.wav</AudioFile>
+						</AudioFileSource>
+					</ChildrenList>
+					<ActiveSourceList>
+						<ActiveSource Name="Banjo-Kazooie - Click Clock Wood (Spring) edit" ID="{F56D3DDE-2311-40C4-AC3C-68F2A9BDC927}" Platform="Linked"/>
+					</ActiveSourceList>
+				</Sound>
+				<Sound Name="S60" ID="{F54FC455-C064-489E-BFAD-8E41C4584362}" ShortID="488274241" Type="SoundFX">
+					<ReferenceList>
+						<Reference Name="Conversion">
+							<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{45D5B71A-130A-4426-A1E5-CBDFFA7A0DF1}"/>
+						</Reference>
+						<Reference Name="OutputBus">
+							<ObjectRef Name="SFX" ID="{78A19E32-CCCD-43C7-8625-3D5DFCF3549C}" WorkUnitID="{831CE32D-4C55-4D68-82F9-9D17FE3F817A}"/>
+						</Reference>
+					</ReferenceList>
+					<ChildrenList>
+						<AudioFileSource Name="S60" ID="{21D2DA28-25C7-4BE4-B8E4-6EFC0823CE99}" ShortID="485448367">
+							<Language>SFX</Language>
+							<AudioFile>S60.wav</AudioFile>
+						</AudioFileSource>
+					</ChildrenList>
+					<ActiveSourceList>
+						<ActiveSource Name="S60" ID="{21D2DA28-25C7-4BE4-B8E4-6EFC0823CE99}" Platform="Linked"/>
+					</ActiveSourceList>
+				</Sound>
+			</ChildrenList>
+		</WorkUnit>
+	</AudioObjects>
+</WwiseDocument>

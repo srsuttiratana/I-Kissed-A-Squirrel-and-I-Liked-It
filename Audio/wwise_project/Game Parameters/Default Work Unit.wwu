@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WwiseDocument Type="WorkUnit" ID="{50FFAD44-7A30-49E2-8EDA-388AC2B39820}" SchemaVersion="70">
+	<GameParameters>
+		<WorkUnit Name="Default Work Unit" ID="{50FFAD44-7A30-49E2-8EDA-388AC2B39820}" PersistMode="Standalone">
+			<ChildrenList>
+				<GameParameter Name="AmbFade" ID="{6D55B7A2-936D-45A1-9411-7A561229F2B9}">
+					<PropertyList>
+						<Property Name="InitialValue" Type="Real64" Value="1"/>
+						<Property Name="Max" Type="Real64" Value="1"/>
+					</PropertyList>
+				</GameParameter>
+			</ChildrenList>
+		</WorkUnit>
+	</GameParameters>
+</WwiseDocument>

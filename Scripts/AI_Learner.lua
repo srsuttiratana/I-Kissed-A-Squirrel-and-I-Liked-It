@@ -176,6 +176,20 @@ function AI_Learner:parse_sentence(id, option)
 	
 end
 
+-- Given all options, parse them into dictionaries and calculate score
+function AI_Learner:parse_all_options(a, b, c)
+	if( not (a == nil || a == "")) then
+		parse_sentence(a, "A");
+	end
+	if( not (b == nil || b == "")) then
+		parse_sentence(b, "B");
+	end
+	if( not (c == nil || c == "")) then
+		parse_sentence(c, "C");
+	end
+	
+end
+
 -- Output of flow node. Goes to selected option. 
 function AI_Learner:choose_option()
 	total = points_A + points_B + points_C;
@@ -221,7 +235,7 @@ end
 -----------------------------------------------------------------------------------------------------------------------
 AI_Learner.FlowEvents = {
   Inputs = {
-	ParseSentence = { AI_Learner.parse_sentence, "int" },
+	ParseSentence = { AI_Learner.parse_all_options, "int". "int", "int" },
   },
   Outputs = {
 	ChooseOption = { AI_Learner.choose_option, "string" }, -- Output to chosen dialogue option

@@ -1,0 +1,43 @@
+<Data>
+<?xml version="1.0" encoding="utf-8" ?>
+<configuration>
+	<stalker num = "proposal">
+		<audio ID = "S60">
+			<Value dialogue = "Well I… I’ve never met anyone like you before. No one’s ever stuck around this long…"></Value>
+			<Value location = "documents"></Value>>
+		</audio>
+		<audio ID = "S61">
+			<Value dialogue = "Oh. Really? Wel-"></Value>
+			<Value location = "documents"></Value>>
+		</audio>
+		<audio ID = "S62">
+			<Value dialogue = "Will you marry me?"></Value>
+			<Value location = "documents"></Value>>
+		</audio>
+		<audio ID = "S63">
+			<Value dialogue = "Hmm? Oh yeah, sure. Let’s…(double-take) WAIT! WHAT???"></Value>
+			<Value location = "documents"></Value>>
+		</audio>
+		<audio ID = "S64">
+			<Value dialogue = "Marry me. I have decided that I will never be this obsessed about another squirrel ever again. Even if you say no, I will follow from the shadows for the rest of your life."></Value>
+			<Value location = "documents"></Value>>
+		</audio>
+		<audio ID = "S65">
+			<Value dialogue = "Umm… ok"></Value>
+			<Value location = "documents"></Value>>
+		</audio>
+		<audio ID = "S66">
+			<Value dialogue = "HELL NO! YOU’RE A CREEP"></Value>
+			<Value location = "documents"></Value>>
+		</audio>
+		<audio ID = "S67">
+			<Value dialogue = "You know… after much careful deliberation... I decided that you are not worth my time. I’m gonna find squirrels that are more interesting to stalk. See you… never."></Value>
+			<Value location = "documents"></Value>>
+		</audio>
+		<audio ID = "S67.1">
+			<Value dialogue = "Ouch. Well, that escalated quickly."></Value>
+			<Value location = "documents"></Value>>
+		</audio>
+	</stalker>
+</configuration>
+</Data>

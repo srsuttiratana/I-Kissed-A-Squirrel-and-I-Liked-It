@@ -1,0 +1,71 @@
+<Data>
+<?xml version="1.0" encoding="utf-8" ?>
+<configuration>
+	<stalker num = "first meeting">
+		<audio ID = "S70">
+			<Value dialogue = "Here… You dropped this over by Yoshinoya...I was there."></Value>
+			<Value location = "documents"></Value>>
+		</audio>
+		<audio ID = "S72">
+			<Value dialogue = "... I waited for you where you usually eat lunch... You didn’t go to Yoshinoya today… Where were you?"></Value>
+			<Value location = "documents"></Value>>
+		</audio>
+		<audio ID = "S73">
+			<Value dialogue = "Yoshinoya"></Value>
+			<Value location = "documents"></Value>>
+		</audio>
+		<audio ID = "S74">
+			<Value dialogue = "Umm... somewhere…"></Value>
+			<Value location = "documents"></Value>>
+		</audio>
+		<audio ID = "S74.5">
+			<Value dialogue = "None of your business!"></Value>
+			<Value location = "documents"></Value>>
+		</audio>
+		<audio ID = "S75">
+			<Value dialogue = "I know… I saw you."></Value>
+			<Value location = "documents"></Value>>
+		</audio>
+		<audio ID = "S75.5">
+			<Value dialogue = "It’s all right… I already know where you ate lunch…"></Value>
+			<Value location = "documents"></Value>>
+		</audio>
+		<audio ID = "S76">
+			<Value dialogue = "Then why did you ask?"></Value>
+			<Value location = "documents"></Value>>
+		</audio>
+		<audio ID = "S76.1">
+			<Value dialogue = "I’m dangerously close to calling the po-po right now… you’re pushing it…"></Value>
+			<Value location = "documents"></Value>>
+		</audio>
+		<audio ID = "S77">
+			<Value dialogue = "Just making conversation…"></Value>
+			<Value location = "documents"></Value>>
+		</audio>
+		<audio ID = "S78">
+			<Value dialogue = "So... do you want to go on a date?"></Value>
+			<Value location = "documents"></Value>>
+		</audio>
+		<audio ID = "S79">
+			<Value dialogue = "Uhhhmm...No"></Value>
+			<Value location = "documents"></Value>>
+		</audio>
+		<audio ID = "S80">
+			<Value dialogue = "Uhhhmm… ok I guess…"></Value>
+			<Value location = "documents"></Value>>
+		</audio>
+		<audio ID = "S81">
+			<Value dialogue = "Where do you want to go?"></Value>
+			<Value location = "documents"></Value>>
+		</audio>
+		<audio ID = "S82">
+			<Value dialogue = "Don’t worry about it…. I’ll find you…"></Value>
+			<Value location = "documents"></Value>>
+		</audio>
+		<audio ID = "S83">
+			<Value dialogue = "... Ok…"></Value>
+			<Value location = "documents"></Value>>
+		</audio>
+	</stalker>
+</configuration>
+</Data>

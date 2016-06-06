@@ -1,0 +1,35 @@
+<Data>
+<?xml version="1.0" encoding="utf-8" ?>
+<configuration>
+	<stalker num = "wedding">
+		<audio ID = "S68">
+			<Value dialogue = "I knew it was a good idea to stalk you. Usually when I stalk someone I like, it ends up with him placing a restraining order on me..."></Value>
+			<Value location = "documents"></Value>>
+		</audio>
+		<audio ID = "S69">
+			<Value dialogue = "... I’m watching you…"></Value>
+			<Value location = "documents"></Value>>
+		</audio>
+		<audio ID = "S83.5">
+			<Value dialogue = "So… have you changed at all since we met… or got together…?"></Value>
+			<Value location = "documents"></Value>>
+		</audio>
+		<audio ID = "S84">
+			<Value dialogue = "I noticed that you use Colgate when you brush your teeth… I used to use Crest.... Then I switched to Colgate too…"></Value>
+			<Value location = "documents"></Value>>
+		</audio>
+		<audio ID = "S85">
+			<Value dialogue = "This song is dedicated to you… Baby."></Value>
+			<Value location = "documents"></Value>>
+		</audio>
+		<audio ID = "S86">
+			<Value dialogue = "Every breath you take…"></Value>
+			<Value location = "documents"></Value>>
+		</audio>
+		<audio ID = "S87">
+			<Value dialogue = "Ugh… What did I get myself into??"></Value>
+			<Value location = "documents"></Value>>
+		</audio>
+	</stalker>
+</configuration>
+</Data>

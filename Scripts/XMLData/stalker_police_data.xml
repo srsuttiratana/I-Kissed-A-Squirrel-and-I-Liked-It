@@ -1,0 +1,27 @@
+<Data>
+<?xml version="1.0" encoding="utf-8" ?>
+<configuration>
+	<stalker num = "Gets Tackled by Police Officer">
+		<audio ID = "S88">
+			<Value dialogue = "Hold it right there!"></Value>
+			<Value location = "documents"></Value>>
+		</audio>
+		<audio ID = "S89">
+			<Value dialogue = "Lift the restraining order. She seems harmless… I think."></Value>
+			<Value location = "documents"></Value>>
+		</audio>
+		<audio ID = "S90">
+			<Value dialogue = "Haha… what a creep! Thank god for the restraining order!"></Value>
+			<Value location = "documents"></Value>>
+		</audio>
+		<audio ID = "S91">
+			<Value dialogue = "What?? But sir, you asked for a restraining order! Fine, so be it."></Value>
+			<Value location = "documents"></Value>>
+		</audio>
+		<audio ID = "S92">
+			<Value dialogue = "Excellent…"></Value>
+			<Value location = "documents"></Value>>
+		</audio>
+	</stalker>
+</configuration>
+</Data>

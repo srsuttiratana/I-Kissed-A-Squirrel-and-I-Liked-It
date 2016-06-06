@@ -1,0 +1,35 @@
+<Data>
+<?xml version="1.0" encoding="utf-8" ?>
+<configuration>
+	<stalker num = "intro">
+		<audio ID = "S1">
+			<Value dialogue = "I know… I saw you."></Value>
+			<Value location = "documents"></Value>>
+		</audio>
+		<audio ID = "S2">
+			<Value dialogue = "... I waited for you where you usually eat lunch... You weren’t there."></Value>
+			<Value location = "documents"></Value>>
+		</audio>
+		<audio ID = "S3">
+			<Value dialogue = "... You didn’t go to Yoshinoya today… Where were you?"></Value>
+			<Value location = "documents"></Value>>
+		</audio>
+		<audio ID = "S4">
+			<Value dialogue = "Umm... somewhere…."></Value>
+			<Value location = "documents"></Value>>
+		</audio>
+		<audio ID = "S5">
+			<Value dialogue = "Here… You dropped this over by (Name of place)...I was there."></Value>
+			<Value location = "documents"></Value>>
+		</audio>
+		<audio ID = "S6">
+			<Value dialogue = "... You went to (Name of other squirrel)’s tree today…I know..."></Value>
+			<Value location = "documents"></Value>>
+		</audio>
+		<audio ID = "S7">
+			<Value dialogue = "... I know where you live. Just keep that in mind…"></Value>
+			<Value location = "documents"></Value>>
+		</audio>
+	</stalker>
+</configuration>
+</Data>

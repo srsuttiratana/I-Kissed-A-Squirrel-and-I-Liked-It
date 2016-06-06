@@ -1,0 +1,10 @@
+<Definition root="Data">
+
+	<Property name="version" type="string"/>
+	
+	<Array name="audio" ID="string" elementName="Value">
+		<Property name="dialogue" type="string"/>
+		<Property name="location" type="string"/>
+	</Array>
+	
+</Definition>

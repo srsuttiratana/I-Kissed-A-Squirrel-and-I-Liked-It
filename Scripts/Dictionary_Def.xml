@@ -1,0 +1,7 @@
+<Definition root="Data">
+
+	<Table name="Dictionary"/>
+		<Array name="Words" elementName="Value"/>
+	</Table>
+
+</Definition>

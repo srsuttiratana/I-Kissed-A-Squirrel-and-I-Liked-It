@@ -1,0 +1,103 @@
+<Data>
+<?xml version="1.0" encoding="utf-8" ?>
+<configuration>
+	<stalker num = "second date">
+		<audio ID = "S35">
+			<Value dialogue = "...So you came back… Squirrels usually think I’m creepy and scurry off after the first date…"></Value>
+			<Value location = "documents"></Value>>
+		</audio>
+		<audio ID = "S36">
+			<Value dialogue = "I don’t think you’re creepy at all!"></Value>
+			<Value location = "documents"></Value>>
+		</audio>
+		<audio ID = "S37">
+			<Value dialogue = "I thought about it."></Value>
+			<Value location = "documents"></Value>>
+		</audio>
+		<audio ID = "S38">
+			<Value dialogue = "...Who’re are you again?"></Value>
+			<Value location = "documents"></Value>>
+		</audio>
+		<audio ID = "S39">
+			<Value dialogue = "... Oh… that’s nice…"></Value>
+			<Value location = "documents"></Value>>
+		</audio>
+		<audio ID = "S40">
+			<Value dialogue = "..."></Value>
+			<Value location = "documents"></Value>>
+		</audio>
+		<audio ID = "S41">
+			<Value dialogue = "Funny… That was a joke, right?"></Value>
+			<Value location = "documents"></Value>>
+		</audio>
+		<audio ID = "S42">
+			<Value dialogue = "So uhh… want some coffee?"></Value>
+			<Value location = "documents"></Value>>
+		</audio>
+		<audio ID = "S43">
+			<Value dialogue = "I was joking"></Value>
+			<Value location = "documents"></Value>>
+		</audio>
+		<audio ID = "S44">
+			<Value dialogue = "I know where you live too. You’re not the only stalker around here."></Value>
+			<Value location = "documents"></Value>>
+		</audio>
+		<audio ID = "S45">
+			<Value dialogue = "Hmm… If you want coffee, I’ll take some too…"></Value>
+			<Value location = "documents"></Value>>
+		</audio>
+		<audio ID = "S46">
+			<Value dialogue = "... Ha…It’s funny.. I was just thinking about how weird you are too..."></Value>
+			<Value location = "documents"></Value>>
+		</audio>
+		<audio ID = "S47">
+			<Value dialogue = "..."></Value>
+			<Value location = "documents"></Value>>
+		</audio>
+		<audio ID = "S48">
+			<Value dialogue = "You’re actually really nice aren’t you?"></Value>
+			<Value location = "documents"></Value>>
+		</audio>
+		<audio ID = "S49">
+			<Value dialogue = "W-ww-weird? Me? Wh-what did I do that was weird?"></Value>
+			<Value location = "documents"></Value>>
+		</audio>
+		<audio ID = "S50">
+			<Value dialogue = "Umm… l-listen. I was just joking! I swear! I’m not a creeper or anything!!!"></Value>
+			<Value location = "documents"></Value>>
+		</audio>
+		<audio ID = "S51">
+			<Value dialogue = "(Blushes more and giggles)"></Value>
+			<Value location = "documents"></Value>>
+		</audio>
+		<audio ID = "S52">
+			<Value dialogue = "... that was a joke"></Value>
+			<Value location = "documents"></Value>>
+		</audio>
+		<audio ID = "S53">
+			<Value dialogue = "...(snicker)...(giggle)...(bursts out laughing).... Th-the look-(laughing)-on your-(laughing)-your face!"></Value>
+			<Value location = "documents"></Value>>
+		</audio>
+		<audio ID = "S54">
+			<Value dialogue = "Oh dear"></Value>
+			<Value location = "documents"></Value>>
+		</audio>
+		<audio ID = "S55">
+			<Value dialogue = "(Choose action: Chase down?/Wait to talk about it until next time) / ”... Stop. You’re not funny"></Value>
+			<Value location = "documents"></Value>>
+		</audio>
+		<audio ID = "S56">
+			<Value dialogue = "Ha...hahaha...ha...ha…."></Value>
+			<Value location = "documents"></Value>>
+		</audio>
+		<audio ID = "S57">
+			<Value dialogue = "... Ha.. hahahahaha! that was a good one! Oh my god! I thought you were about to call the Police on me or something!"></Value>
+			<Value location = "documents"></Value>>
+		</audio>
+		<audio ID = "S58">
+			<Value dialogue = "..."></Value>
+			<Value location = "documents"></Value>>
+		</audio>
+	</stalker>
+</configuration>
+</Data>

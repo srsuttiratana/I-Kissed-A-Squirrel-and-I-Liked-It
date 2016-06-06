@@ -1,0 +1,392 @@
+<Data>
+<?xml version="1.0" encoding="utf-8" ?>
+		<audio ID = "S1">
+			<Value dialogue = "I know… I saw you."></Value>
+			<Value location = "documents"></Value>>
+		</audio>
+		<audio ID = "S2">
+			<Value dialogue = "... I waited for you where you usually eat lunch... You weren’t there."></Value>
+			<Value location = "documents"></Value>>
+		</audio>
+		<audio ID = "S3">
+			<Value dialogue = "... You didn’t go to Yoshinoya today… Where were you?"></Value>
+			<Value location = "documents"></Value>>
+		</audio>
+		<audio ID = "S4">
+			<Value dialogue = "Umm... somewhere…."></Value>
+			<Value location = "documents"></Value>>
+		</audio>
+		<audio ID = "S5">
+			<Value dialogue = "Here… You dropped this over by (Name of place)...I was there."></Value>
+			<Value location = "documents"></Value>>
+		</audio>
+		<audio ID = "S6">
+			<Value dialogue = "... You went to (Name of other squirrel)’s tree today…I know..."></Value>
+			<Value location = "documents"></Value>>
+		</audio>
+		<audio ID = "S7">
+			<Value dialogue = "... I know where you live. Just keep that in mind…"></Value>
+			<Value location = "documents"></Value>>
+		</audio>
+		<audio ID = "S88">
+			<Value dialogue = "Hold it right there!"></Value>
+			<Value location = "documents"></Value>>
+		</audio>
+		<audio ID = "S89">
+			<Value dialogue = "Lift the restraining order. She seems harmless… I think."></Value>
+			<Value location = "documents"></Value>>
+		</audio>
+		<audio ID = "S90">
+			<Value dialogue = "Haha… what a creep! Thank god for the restraining order!"></Value>
+			<Value location = "documents"></Value>>
+		</audio>
+		<audio ID = "S91">
+			<Value dialogue = "What?? But sir, you asked for a restraining order! Fine, so be it."></Value>
+			<Value location = "documents"></Value>>
+		</audio>
+		<audio ID = "S92">
+			<Value dialogue = "Excellent…"></Value>
+			<Value location = "documents"></Value>>
+		</audio>
+		<audio ID = "S70">
+			<Value dialogue = "Here… You dropped this over by Yoshinoya...I was there."></Value>
+			<Value location = "documents"></Value>>
+		</audio>
+		<audio ID = "S72">
+			<Value dialogue = "... I waited for you where you usually eat lunch... You didn’t go to Yoshinoya today… Where were you?"></Value>
+			<Value location = "documents"></Value>>
+		</audio>
+		<audio ID = "S73">
+			<Value dialogue = "Yoshinoya"></Value>
+			<Value location = "documents"></Value>>
+		</audio>
+		<audio ID = "S74">
+			<Value dialogue = "Umm... somewhere…"></Value>
+			<Value location = "documents"></Value>>
+		</audio>
+		<audio ID = "S74.5">
+			<Value dialogue = "None of your business!"></Value>
+			<Value location = "documents"></Value>>
+		</audio>
+		<audio ID = "S75">
+			<Value dialogue = "I know… I saw you."></Value>
+			<Value location = "documents"></Value>>
+		</audio>
+		<audio ID = "S75.5">
+			<Value dialogue = "It’s all right… I already know where you ate lunch…"></Value>
+			<Value location = "documents"></Value>>
+		</audio>
+		<audio ID = "S76">
+			<Value dialogue = "Then why did you ask?"></Value>
+			<Value location = "documents"></Value>>
+		</audio>
+		<audio ID = "S76.1">
+			<Value dialogue = "I’m dangerously close to calling the po-po right now… you’re pushing it…"></Value>
+			<Value location = "documents"></Value>>
+		</audio>
+		<audio ID = "S77">
+			<Value dialogue = "Just making conversation…"></Value>
+			<Value location = "documents"></Value>>
+		</audio>
+		<audio ID = "S78">
+			<Value dialogue = "So... do you want to go on a date?"></Value>
+			<Value location = "documents"></Value>>
+		</audio>
+		<audio ID = "S79">
+			<Value dialogue = "Uhhhmm...No"></Value>
+			<Value location = "documents"></Value>>
+		</audio>
+		<audio ID = "S80">
+			<Value dialogue = "Uhhhmm… ok I guess…"></Value>
+			<Value location = "documents"></Value>>
+		</audio>
+		<audio ID = "S81">
+			<Value dialogue = "Where do you want to go?"></Value>
+			<Value location = "documents"></Value>>
+		</audio>
+		<audio ID = "S82">
+			<Value dialogue = "Don’t worry about it…. I’ll find you…"></Value>
+			<Value location = "documents"></Value>>
+		</audio>
+		<audio ID = "S83">
+			<Value dialogue = "... Ok…"></Value>
+			<Value location = "documents"></Value>>
+		</audio>
+		<audio ID = "S8">
+			<Value dialogue = "... I made you Acorn coffee..."></Value>
+			<Value location = "documents"></Value>>
+		</audio>
+		<audio ID = "S9">
+			<Value dialogue = "Hey! That’s my favorite drink!"></Value>
+			<Value location = "documents"></Value>>
+		</audio>
+		<audio ID = "S10">
+			<Value dialogue = "I know..."></Value>
+			<Value location = "documents"></Value>>
+		</audio>
+		<audio ID = "S11">
+			<Value dialogue = "Haha ha ha…."></Value>
+			<Value location = "documents"></Value>>
+		</audio>
+		<audio ID = "S11.1">
+			<Value dialogue = "Ummmmmm… You’re kinda creepy. I don’t like girls who do too much research…"></Value>
+			<Value location = "documents"></Value>>
+		</audio>
+		<audio ID = "S12">
+			<Value dialogue = "..."></Value>
+			<Value location = "documents"></Value>>
+		</audio>
+		<audio ID = "S13">
+			<Value dialogue = "... Where do you live?"></Value>
+			<Value location = "documents"></Value>>
+		</audio>
+		<audio ID = "S14">
+			<Value dialogue = "1234 Pine Branch"></Value>
+			<Value location = "documents"></Value>>
+		</audio>
+		<audio ID = "S15">
+			<Value dialogue = "Why do you want to know?"></Value>
+			<Value location = "documents"></Value>>
+		</audio>
+		<audio ID = "S16">
+			<Value dialogue = "Sounds about right…"></Value>
+			<Value location = "documents"></Value>>
+		</audio>
+		<audio ID = "S17">
+			<Value dialogue = "Oh… I already know where you live… I just wanted to double check…"></Value>
+			<Value location = "documents"></Value>>
+		</audio>
+		<audio ID = "S18">
+			<Value dialogue = "Hahaha! You’re funny!"></Value>
+			<Value location = "documents"></Value>>
+		</audio>
+		<audio ID = "S19">
+			<Value dialogue = "Ha… haha… Actually, I just remembered something important that I have to do. Bye!"></Value>
+			<Value location = "documents"></Value>>
+		</audio>
+		<audio ID = "S20">
+			<Value dialogue = "So… do you have any hobbies?"></Value>
+			<Value location = "documents"></Value>>
+		</audio>
+		<audio ID = "S21">
+			<Value dialogue = "... I like to follow squirrels… Just observing them… You know what I mean?"></Value>
+			<Value location = "documents"></Value>>
+		</audio>
+		<audio ID = "S22">
+			<Value dialogue = "Have you ever followed me?"></Value>
+			<Value location = "documents"></Value>>
+		</audio>
+		<audio ID = "S23">
+			<Value dialogue = "… That’s kinda creepy."></Value>
+			<Value location = "documents"></Value>>
+		</audio>
+		<audio ID = "S24">
+			<Value dialogue = "Me too! I know just what you mean!"></Value>
+			<Value location = "documents"></Value>>
+		</audio>
+		<audio ID = "S26">
+			<Value dialogue = "...Just once or twice…"></Value>
+			<Value location = "documents"></Value>>
+		</audio>
+		<audio ID = "S27">
+			<Value dialogue = "...Creepy in a good way?"></Value>
+			<Value location = "documents"></Value>>
+		</audio>
+		<audio ID = "S28">
+			<Value dialogue = "...It’s so hard to find others who understand squirrels like us. It’s like they think we’re creepy or something…"></Value>
+			<Value location = "documents"></Value>>
+		</audio>
+		<audio ID = "S29">
+			<Value dialogue = "Hmm… Interesting"></Value>
+			<Value location = "documents"></Value>>
+		</audio>
+		<audio ID = "S30">
+			<Value dialogue = "Umm… I think I’ll get going now. Bye!"></Value>
+			<Value location = "documents"></Value>>
+		</audio>
+		<audio ID = "S31">
+			<Value dialogue = "Man, we’re really connecting here! In a not-creepy not-stalkerish way of course"></Value>
+			<Value location = "documents"></Value>>
+		</audio>
+		<audio ID = "S31.5">
+			<Value dialogue = "Uh… I think I’m gonna call the cops now!"></Value>
+			<Value location = "documents"></Value>>
+		</audio>
+		<audio ID = "S32">
+			<Value dialogue = "...You know...not that I didn’t enjoy our time together, but… Let’s not dawdle too long. I’m leaving now..."></Value>
+			<Value location = "documents"></Value>>
+		</audio>
+		<audio ID = "S33">
+			<Value dialogue = "...Bye.."></Value>
+			<Value location = "documents"></Value>>
+		</audio>
+		<audio ID = "S34">
+			<Value dialogue = "Well… that was... nice. Yeah… nice… We should...maybe... meet again?"></Value>
+			<Value location = "documents"></Value>>
+		</audio>
+		<audio ID = "S34.1">
+			<Value dialogue = "Not if I leave first. But I’ll be watching you…"></Value>
+			<Value location = "documents"></Value>>
+		</audio>
+		<audio ID = "S35">
+			<Value dialogue = "...So you came back… Squirrels usually think I’m creepy and scurry off after the first date…"></Value>
+			<Value location = "documents"></Value>>
+		</audio>
+		<audio ID = "S36">
+			<Value dialogue = "I don’t think you’re creepy at all!"></Value>
+			<Value location = "documents"></Value>>
+		</audio>
+		<audio ID = "S37">
+			<Value dialogue = "I thought about it."></Value>
+			<Value location = "documents"></Value>>
+		</audio>
+		<audio ID = "S38">
+			<Value dialogue = "...Who’re are you again?"></Value>
+			<Value location = "documents"></Value>>
+		</audio>
+		<audio ID = "S39">
+			<Value dialogue = "... Oh… that’s nice…"></Value>
+			<Value location = "documents"></Value>>
+		</audio>
+		<audio ID = "S40">
+			<Value dialogue = "..."></Value>
+			<Value location = "documents"></Value>>
+		</audio>
+		<audio ID = "S41">
+			<Value dialogue = "Funny… That was a joke, right?"></Value>
+			<Value location = "documents"></Value>>
+		</audio>
+		<audio ID = "S42">
+			<Value dialogue = "So uhh… want some coffee?"></Value>
+			<Value location = "documents"></Value>>
+		</audio>
+		<audio ID = "S43">
+			<Value dialogue = "I was joking"></Value>
+			<Value location = "documents"></Value>>
+		</audio>
+		<audio ID = "S44">
+			<Value dialogue = "I know where you live too. You’re not the only stalker around here."></Value>
+			<Value location = "documents"></Value>>
+		</audio>
+		<audio ID = "S45">
+			<Value dialogue = "Hmm… If you want coffee, I’ll take some too…"></Value>
+			<Value location = "documents"></Value>>
+		</audio>
+		<audio ID = "S46">
+			<Value dialogue = "... Ha…It’s funny.. I was just thinking about how weird you are too..."></Value>
+			<Value location = "documents"></Value>>
+		</audio>
+		<audio ID = "S47">
+			<Value dialogue = "..."></Value>
+			<Value location = "documents"></Value>>
+		</audio>
+		<audio ID = "S48">
+			<Value dialogue = "You’re actually really nice aren’t you?"></Value>
+			<Value location = "documents"></Value>>
+		</audio>
+		<audio ID = "S49">
+			<Value dialogue = "W-ww-weird? Me? Wh-what did I do that was weird?"></Value>
+			<Value location = "documents"></Value>>
+		</audio>
+		<audio ID = "S50">
+			<Value dialogue = "Umm… l-listen. I was just joking! I swear! I’m not a creeper or anything!!!"></Value>
+			<Value location = "documents"></Value>>
+		</audio>
+		<audio ID = "S51">
+			<Value dialogue = "(Blushes more and giggles)"></Value>
+			<Value location = "documents"></Value>>
+		</audio>
+		<audio ID = "S52">
+			<Value dialogue = "... that was a joke"></Value>
+			<Value location = "documents"></Value>>
+		</audio>
+		<audio ID = "S53">
+			<Value dialogue = "...(snicker)...(giggle)...(bursts out laughing).... Th-the look-(laughing)-on your-(laughing)-your face!"></Value>
+			<Value location = "documents"></Value>>
+		</audio>
+		<audio ID = "S54">
+			<Value dialogue = "Oh dear"></Value>
+			<Value location = "documents"></Value>>
+		</audio>
+		<audio ID = "S55">
+			<Value dialogue = "(Choose action: Chase down?/Wait to talk about it until next time) / ”... Stop. You’re not funny"></Value>
+			<Value location = "documents"></Value>>
+		</audio>
+		<audio ID = "S56">
+			<Value dialogue = "Ha...hahaha...ha...ha…."></Value>
+			<Value location = "documents"></Value>>
+		</audio>
+		<audio ID = "S57">
+			<Value dialogue = "... Ha.. hahahahaha! that was a good one! Oh my god! I thought you were about to call the Police on me or something!"></Value>
+			<Value location = "documents"></Value>>
+		</audio>
+		<audio ID = "S58">
+			<Value dialogue = "..."></Value>
+			<Value location = "documents"></Value>>
+		</audio>
+		<audio ID = "S60">
+			<Value dialogue = "Well I… I’ve never met anyone like you before. No one’s ever stuck around this long…"></Value>
+			<Value location = "documents"></Value>>
+		</audio>
+		<audio ID = "S61">
+			<Value dialogue = "Oh. Really? Wel-"></Value>
+			<Value location = "documents"></Value>>
+		</audio>
+		<audio ID = "S62">
+			<Value dialogue = "Will you marry me?"></Value>
+			<Value location = "documents"></Value>>
+		</audio>
+		<audio ID = "S63">
+			<Value dialogue = "Hmm? Oh yeah, sure. Let’s…(double-take) WAIT! WHAT???"></Value>
+			<Value location = "documents"></Value>>
+		</audio>
+		<audio ID = "S64">
+			<Value dialogue = "Marry me. I have decided that I will never be this obsessed about another squirrel ever again. Even if you say no, I will follow from the shadows for the rest of your life."></Value>
+			<Value location = "documents"></Value>>
+		</audio>
+		<audio ID = "S65">
+			<Value dialogue = "Umm… ok"></Value>
+			<Value location = "documents"></Value>>
+		</audio>
+		<audio ID = "S66">
+			<Value dialogue = "HELL NO! YOU’RE A CREEP"></Value>
+			<Value location = "documents"></Value>>
+		</audio>
+		<audio ID = "S67">
+			<Value dialogue = "You know… after much careful deliberation... I decided that you are not worth my time. I’m gonna find squirrels that are more interesting to stalk. See you… never."></Value>
+			<Value location = "documents"></Value>>
+		</audio>
+		<audio ID = "S67.1">
+			<Value dialogue = "Ouch. Well, that escalated quickly."></Value>
+			<Value location = "documents"></Value>>
+		</audio>
+		<audio ID = "S68">
+			<Value dialogue = "I knew it was a good idea to stalk you. Usually when I stalk someone I like, it ends up with him placing a restraining order on me..."></Value>
+			<Value location = "documents"></Value>>
+		</audio>
+		<audio ID = "S69">
+			<Value dialogue = "... I’m watching you…"></Value>
+			<Value location = "documents"></Value>>
+		</audio>
+		<audio ID = "S83.5">
+			<Value dialogue = "So… have you changed at all since we met… or got together…?"></Value>
+			<Value location = "documents"></Value>>
+		</audio>
+		<audio ID = "S84">
+			<Value dialogue = "I noticed that you use Colgate when you brush your teeth… I used to use Crest.... Then I switched to Colgate too…"></Value>
+			<Value location = "documents"></Value>>
+		</audio>
+		<audio ID = "S85">
+			<Value dialogue = "This song is dedicated to you… Baby."></Value>
+			<Value location = "documents"></Value>>
+		</audio>
+		<audio ID = "S86">
+			<Value dialogue = "Every breath you take…"></Value>
+			<Value location = "documents"></Value>>
+		</audio>
+		<audio ID = "S87">
+			<Value dialogue = "Ugh… What did I get myself into??"></Value>
+			<Value location = "documents"></Value>>
+		</audio>
+</Data>
+

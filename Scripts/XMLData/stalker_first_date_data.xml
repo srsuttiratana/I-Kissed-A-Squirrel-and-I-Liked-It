@@ -1,0 +1,123 @@
+<Data>
+<?xml version="1.0" encoding="utf-8" ?>
+<configuration>
+	<stalker num = "first date">
+		<audio ID = "S8">
+			<Value dialogue = "... I made you Acorn coffee..."></Value>
+			<Value location = "documents"></Value>>
+		</audio>
+		<audio ID = "S9">
+			<Value dialogue = "Hey! That’s my favorite drink!"></Value>
+			<Value location = "documents"></Value>>
+		</audio>
+		<audio ID = "S10">
+			<Value dialogue = "I know..."></Value>
+			<Value location = "documents"></Value>>
+		</audio>
+		<audio ID = "S11">
+			<Value dialogue = "Haha ha ha…."></Value>
+			<Value location = "documents"></Value>>
+		</audio>
+		<audio ID = "S11.1">
+			<Value dialogue = "Ummmmmm… You’re kinda creepy. I don’t like girls who do too much research…"></Value>
+			<Value location = "documents"></Value>>
+		</audio>
+		<audio ID = "S12">
+			<Value dialogue = "..."></Value>
+			<Value location = "documents"></Value>>
+		</audio>
+		<audio ID = "S13">
+			<Value dialogue = "... Where do you live?"></Value>
+			<Value location = "documents"></Value>>
+		</audio>
+		<audio ID = "S14">
+			<Value dialogue = "1234 Pine Branch"></Value>
+			<Value location = "documents"></Value>>
+		</audio>
+		<audio ID = "S15">
+			<Value dialogue = "Why do you want to know?"></Value>
+			<Value location = "documents"></Value>>
+		</audio>
+		<audio ID = "S16">
+			<Value dialogue = "Sounds about right…"></Value>
+			<Value location = "documents"></Value>>
+		</audio>
+		<audio ID = "S17">
+			<Value dialogue = "Oh… I already know where you live… I just wanted to double check…"></Value>
+			<Value location = "documents"></Value>>
+		</audio>
+		<audio ID = "S18">
+			<Value dialogue = "Hahaha! You’re funny!"></Value>
+			<Value location = "documents"></Value>>
+		</audio>
+		<audio ID = "S19">
+			<Value dialogue = "Ha… haha… Actually, I just remembered something important that I have to do. Bye!"></Value>
+			<Value location = "documents"></Value>>
+		</audio>
+		<audio ID = "S20">
+			<Value dialogue = "So… do you have any hobbies?"></Value>
+			<Value location = "documents"></Value>>
+		</audio>
+		<audio ID = "S21">
+			<Value dialogue = "... I like to follow squirrels… Just observing them… You know what I mean?"></Value>
+			<Value location = "documents"></Value>>
+		</audio>
+		<audio ID = "S22">
+			<Value dialogue = "Have you ever followed me?"></Value>
+			<Value location = "documents"></Value>>
+		</audio>
+		<audio ID = "S23">
+			<Value dialogue = "… That’s kinda creepy."></Value>
+			<Value location = "documents"></Value>>
+		</audio>
+		<audio ID = "S24">
+			<Value dialogue = "Me too! I know just what you mean!"></Value>
+			<Value location = "documents"></Value>>
+		</audio>
+		<audio ID = "S26">
+			<Value dialogue = "...Just once or twice…"></Value>
+			<Value location = "documents"></Value>>
+		</audio>
+		<audio ID = "S27">
+			<Value dialogue = "...Creepy in a good way?"></Value>
+			<Value location = "documents"></Value>>
+		</audio>
+		<audio ID = "S28">
+			<Value dialogue = "...It’s so hard to find others who understand squirrels like us. It’s like they think we’re creepy or something…"></Value>
+			<Value location = "documents"></Value>>
+		</audio>
+		<audio ID = "S29">
+			<Value dialogue = "Hmm… Interesting"></Value>
+			<Value location = "documents"></Value>>
+		</audio>
+		<audio ID = "S30">
+			<Value dialogue = "Umm… I think I’ll get going now. Bye!"></Value>
+			<Value location = "documents"></Value>>
+		</audio>
+		<audio ID = "S31">
+			<Value dialogue = "Man, we’re really connecting here! In a not-creepy not-stalkerish way of course"></Value>
+			<Value location = "documents"></Value>>
+		</audio>
+		<audio ID = "S31.5">
+			<Value dialogue = "Uh… I think I’m gonna call the cops now!"></Value>
+			<Value location = "documents"></Value>>
+		</audio>
+		<audio ID = "S32">
+			<Value dialogue = "...You know...not that I didn’t enjoy our time together, but… Let’s not dawdle too long. I’m leaving now..."></Value>
+			<Value location = "documents"></Value>>
+		</audio>
+		<audio ID = "S33">
+			<Value dialogue = "...Bye.."></Value>
+			<Value location = "documents"></Value>>
+		</audio>
+		<audio ID = "S34">
+			<Value dialogue = "Well… that was... nice. Yeah… nice… We should...maybe... meet again?"></Value>
+			<Value location = "documents"></Value>>
+		</audio>
+		<audio ID = "S34.1">
+			<Value dialogue = "Not if I leave first. But I’ll be watching you…"></Value>
+			<Value location = "documents"></Value>>
+		</audio>
+	</stalker>
+</configuration>
+</Data>

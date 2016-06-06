@@ -1,0 +1,408 @@
+<Data>
+<?xml version="1.0" encoding="utf-8" ?>
+<configuration>
+	<stalker num = "intro">
+		<audio ID = "S1">
+			<string dialogue = "I know… I saw you."></string>
+			<location location = "documents"></location>
+		</audio>
+		<audio ID = "S2">
+			<string dialogue = "... I waited for you where you usually eat lunch... You weren’t there."></string>
+			<location location = "documents"></location>
+		</audio>
+		<audio ID = "S3">
+			<string dialogue = "... You didn’t go to Yoshinoya today… Where were you?"></string>
+			<location location = "documents"></location>
+		</audio>
+		<audio ID = "S4">
+			<string dialogue = "Umm... somewhere…."></string>
+			<location location = "documents"></location>
+		</audio>
+		<audio ID = "S5">
+			<string dialogue = "Here… You dropped this over by (Name of place)...I was there."></string>
+			<location location = "documents"></location>
+		</audio>
+		<audio ID = "S6">
+			<string dialogue = "... You went to (Name of other squirrel)’s tree today…I know..."></string>
+			<location location = "documents"></location>
+		</audio>
+		<audio ID = "S7">
+			<string dialogue = "... I know where you live. Just keep that in mind…"></string>
+			<location location = "documents"></location>
+		</audio>
+	</stalker>
+	<stalker num = "Gets Tackled by Police Officer">
+		<audio ID = "S88">
+			<string dialogue = "Hold it right there!"></string>
+			<location location = "documents"></location>
+		</audio>
+		<audio ID = "S89">
+			<string dialogue = "Lift the restraining order. She seems harmless… I think."></string>
+			<location location = "documents"></location>
+		</audio>
+		<audio ID = "S90">
+			<string dialogue = "Haha… what a creep! Thank god for the restraining order!"></string>
+			<location location = "documents"></location>
+		</audio>
+		<audio ID = "S91">
+			<string dialogue = "What?? But sir, you asked for a restraining order! Fine, so be it."></string>
+			<location location = "documents"></location>
+		</audio>
+		<audio ID = "S92">
+			<string dialogue = "Excellent…"></string>
+			<location location = "documents"></location>
+		</audio>
+	</stalker>
+	<stalker num = "first meeting">
+		<audio ID = "S70">
+			<string dialogue = "Here… You dropped this over by Yoshinoya...I was there."></string>
+			<location location = "documents"></location>
+		</audio>
+		<audio ID = "S72">
+			<string dialogue = "... I waited for you where you usually eat lunch... You didn’t go to Yoshinoya today… Where were you?"></string>
+			<location location = "documents"></location>
+		</audio>
+		<audio ID = "S73">
+			<string dialogue = "Yoshinoya"></string>
+			<location location = "documents"></location>
+		</audio>
+		<audio ID = "S74">
+			<string dialogue = "Umm... somewhere…"></string>
+			<location location = "documents"></location>
+		</audio>
+		<audio ID = "S74.5">
+			<string dialogue = "None of your business!"></string>
+			<location location = "documents"></location>
+		</audio>
+		<audio ID = "S75">
+			<string dialogue = "I know… I saw you."></string>
+			<location location = "documents"></location>
+		</audio>
+		<audio ID = "S75.5">
+			<string dialogue = "It’s all right… I already know where you ate lunch…"></string>
+			<location location = "documents"></location>
+		</audio>
+		<audio ID = "S76">
+			<string dialogue = "Then why did you ask?"></string>
+			<location location = "documents"></location>
+		</audio>
+		<audio ID = "S76.1">
+			<string dialogue = "I’m dangerously close to calling the po-po right now… you’re pushing it…"></string>
+			<location location = "documents"></location>
+		</audio>
+		<audio ID = "S77">
+			<string dialogue = "Just making conversation…"></string>
+			<location location = "documents"></location>
+		</audio>
+		<audio ID = "S78">
+			<string dialogue = "So... do you want to go on a date?"></string>
+			<location location = "documents"></location>
+		</audio>
+		<audio ID = "S79">
+			<string dialogue = "Uhhhmm...No"></string>
+			<location location = "documents"></location>
+		</audio>
+		<audio ID = "S80">
+			<string dialogue = "Uhhhmm… ok I guess…"></string>
+			<location location = "documents"></location>
+		</audio>
+		<audio ID = "S81">
+			<string dialogue = "Where do you want to go?"></string>
+			<location location = "documents"></location>
+		</audio>
+		<audio ID = "S82">
+			<string dialogue = "Don’t worry about it…. I’ll find you…"></string>
+			<location location = "documents"></location>
+		</audio>
+		<audio ID = "S83">
+			<string dialogue = "... Ok…"></string>
+			<location location = "documents"></location>
+		</audio>
+	</stalker>
+	<stalker num = "first date">
+		<audio ID = "S8">
+			<string dialogue = "... I made you Acorn coffee..."></string>
+			<location location = "documents"></location>
+		</audio>
+		<audio ID = "S9">
+			<string dialogue = "Hey! That’s my favorite drink!"></string>
+			<location location = "documents"></location>
+		</audio>
+		<audio ID = "S10">
+			<string dialogue = "I know..."></string>
+			<location location = "documents"></location>
+		</audio>
+		<audio ID = "S11">
+			<string dialogue = "Haha ha ha…."></string>
+			<location location = "documents"></location>
+		</audio>
+		<audio ID = "S11.1">
+			<string dialogue = "Ummmmmm… You’re kinda creepy. I don’t like girls who do too much research…"></string>
+			<location location = "documents"></location>
+		</audio>
+		<audio ID = "S12">
+			<string dialogue = "..."></string>
+			<location location = "documents"></location>
+		</audio>
+		<audio ID = "S13">
+			<string dialogue = "... Where do you live?"></string>
+			<location location = "documents"></location>
+		</audio>
+		<audio ID = "S14">
+			<string dialogue = "1234 Pine Branch"></string>
+			<location location = "documents"></location>
+		</audio>
+		<audio ID = "S15">
+			<string dialogue = "Why do you want to know?"></string>
+			<location location = "documents"></location>
+		</audio>
+		<audio ID = "S16">
+			<string dialogue = "Sounds about right…"></string>
+			<location location = "documents"></location>
+		</audio>
+		<audio ID = "S17">
+			<string dialogue = "Oh… I already know where you live… I just wanted to double check…"></string>
+			<location location = "documents"></location>
+		</audio>
+		<audio ID = "S18">
+			<string dialogue = "Hahaha! You’re funny!"></string>
+			<location location = "documents"></location>
+		</audio>
+		<audio ID = "S19">
+			<string dialogue = "Ha… haha… Actually, I just remembered something important that I have to do. Bye!"></string>
+			<location location = "documents"></location>
+		</audio>
+		<audio ID = "S20">
+			<string dialogue = "So… do you have any hobbies?"></string>
+			<location location = "documents"></location>
+		</audio>
+		<audio ID = "S21">
+			<string dialogue = "... I like to follow squirrels… Just observing them… You know what I mean?"></string>
+			<location location = "documents"></location>
+		</audio>
+		<audio ID = "S22">
+			<string dialogue = "Have you ever followed me?"></string>
+			<location location = "documents"></location>
+		</audio>
+		<audio ID = "S23">
+			<string dialogue = "… That’s kinda creepy."></string>
+			<location location = "documents"></location>
+		</audio>
+		<audio ID = "S24">
+			<string dialogue = "Me too! I know just what you mean!"></string>
+			<location location = "documents"></location>
+		</audio>
+		<audio ID = "S26">
+			<string dialogue = "...Just once or twice…"></string>
+			<location location = "documents"></location>
+		</audio>
+		<audio ID = "S27">
+			<string dialogue = "...Creepy in a good way?"></string>
+			<location location = "documents"></location>
+		</audio>
+		<audio ID = "S28">
+			<string dialogue = "...It’s so hard to find others who understand squirrels like us. It’s like they think we’re creepy or something…"></string>
+			<location location = "documents"></location>
+		</audio>
+		<audio ID = "S29">
+			<string dialogue = "Hmm… Interesting"></string>
+			<location location = "documents"></location>
+		</audio>
+		<audio ID = "S30">
+			<string dialogue = "Umm… I think I’ll get going now. Bye!"></string>
+			<location location = "documents"></location>
+		</audio>
+		<audio ID = "S31">
+			<string dialogue = "Man, we’re really connecting here! In a not-creepy not-stalkerish way of course"></string>
+			<location location = "documents"></location>
+		</audio>
+		<audio ID = "S31.5">
+			<string dialogue = "Uh… I think I’m gonna call the cops now!"></string>
+			<location location = "documents"></location>
+		</audio>
+		<audio ID = "S32">
+			<string dialogue = "...You know...not that I didn’t enjoy our time together, but… Let’s not dawdle too long. I’m leaving now..."></string>
+			<location location = "documents"></location>
+		</audio>
+		<audio ID = "S33">
+			<string dialogue = "...Bye.."></string>
+			<location location = "documents"></location>
+		</audio>
+		<audio ID = "S34">
+			<string dialogue = "Well… that was... nice. Yeah… nice… We should...maybe... meet again?"></string>
+			<location location = "documents"></location>
+		</audio>
+		<audio ID = "S34.1">
+			<string dialogue = "Not if I leave first. But I’ll be watching you…"></string>
+			<location location = "documents"></location>
+		</audio>
+	</stalker>
+	<stalker num = "second date">
+		<audio ID = "S35">
+			<string dialogue = "...So you came back… Squirrels usually think I’m creepy and scurry off after the first date…"></string>
+			<location location = "documents"></location>
+		</audio>
+		<audio ID = "S36">
+			<string dialogue = "I don’t think you’re creepy at all!"></string>
+			<location location = "documents"></location>
+		</audio>
+		<audio ID = "S37">
+			<string dialogue = "I thought about it."></string>
+			<location location = "documents"></location>
+		</audio>
+		<audio ID = "S38">
+			<string dialogue = "...Who’re are you again?"></string>
+			<location location = "documents"></location>
+		</audio>
+		<audio ID = "S39">
+			<string dialogue = "... Oh… that’s nice…"></string>
+			<location location = "documents"></location>
+		</audio>
+		<audio ID = "S40">
+			<string dialogue = "..."></string>
+			<location location = "documents"></location>
+		</audio>
+		<audio ID = "S41">
+			<string dialogue = "Funny… That was a joke, right?"></string>
+			<location location = "documents"></location>
+		</audio>
+		<audio ID = "S42">
+			<string dialogue = "So uhh… want some coffee?"></string>
+			<location location = "documents"></location>
+		</audio>
+		<audio ID = "S43">
+			<string dialogue = "I was joking"></string>
+			<location location = "documents"></location>
+		</audio>
+		<audio ID = "S44">
+			<string dialogue = "I know where you live too. You’re not the only stalker around here."></string>
+			<location location = "documents"></location>
+		</audio>
+		<audio ID = "S45">
+			<string dialogue = "Hmm… If you want coffee, I’ll take some too…"></string>
+			<location location = "documents"></location>
+		</audio>
+		<audio ID = "S46">
+			<string dialogue = "... Ha…It’s funny.. I was just thinking about how weird you are too..."></string>
+			<location location = "documents"></location>
+		</audio>
+		<audio ID = "S47">
+			<string dialogue = "..."></string>
+			<location location = "documents"></location>
+		</audio>
+		<audio ID = "S48">
+			<string dialogue = "You’re actually really nice aren’t you?"></string>
+			<location location = "documents"></location>
+		</audio>
+		<audio ID = "S49">
+			<string dialogue = "W-ww-weird? Me? Wh-what did I do that was weird?"></string>
+			<location location = "documents"></location>
+		</audio>
+		<audio ID = "S50">
+			<string dialogue = "Umm… l-listen. I was just joking! I swear! I’m not a creeper or anything!!!"></string>
+			<location location = "documents"></location>
+		</audio>
+		<audio ID = "S51">
+			<string dialogue = "(Blushes more and giggles)"></string>
+			<location location = "documents"></location>
+		</audio>
+		<audio ID = "S52">
+			<string dialogue = "... that was a joke"></string>
+			<location location = "documents"></location>
+		</audio>
+		<audio ID = "S53">
+			<string dialogue = "...(snicker)...(giggle)...(bursts out laughing).... Th-the look-(laughing)-on your-(laughing)-your face!"></string>
+			<location location = "documents"></location>
+		</audio>
+		<audio ID = "S54">
+			<string dialogue = "Oh dear"></string>
+			<location location = "documents"></location>
+		</audio>
+		<audio ID = "S55">
+			<string dialogue = "(Choose action: Chase down?/Wait to talk about it until next time) / ”... Stop. You’re not funny"></string>
+			<location location = "documents"></location>
+		</audio>
+		<audio ID = "S56">
+			<string dialogue = "Ha...hahaha...ha...ha…."></string>
+			<location location = "documents"></location>
+		</audio>
+		<audio ID = "S57">
+			<string dialogue = "... Ha.. hahahahaha! that was a good one! Oh my god! I thought you were about to call the Police on me or something!"></string>
+			<location location = "documents"></location>
+		</audio>
+		<audio ID = "S58">
+			<string dialogue = "..."></string>
+			<location location = "documents"></location>
+		</audio>
+	</stalker>
+	<stalker num = "proposal">
+		<audio ID = "S60">
+			<string dialogue = "Well I… I’ve never met anyone like you before. No one’s ever stuck around this long…"></string>
+			<location location = "documents"></location>
+		</audio>
+		<audio ID = "S61">
+			<string dialogue = "Oh. Really? Wel-"></string>
+			<location location = "documents"></location>
+		</audio>
+		<audio ID = "S62">
+			<string dialogue = "Will you marry me?"></string>
+			<location location = "documents"></location>
+		</audio>
+		<audio ID = "S63">
+			<string dialogue = "Hmm? Oh yeah, sure. Let’s…(double-take) WAIT! WHAT???"></string>
+			<location location = "documents"></location>
+		</audio>
+		<audio ID = "S64">
+			<string dialogue = "Marry me. I have decided that I will never be this obsessed about another squirrel ever again. Even if you say no, I will follow from the shadows for the rest of your life."></string>
+			<location location = "documents"></location>
+		</audio>
+		<audio ID = "S65">
+			<string dialogue = "Umm… ok"></string>
+			<location location = "documents"></location>
+		</audio>
+		<audio ID = "S66">
+			<string dialogue = "HELL NO! YOU’RE A CREEP"></string>
+			<location location = "documents"></location>
+		</audio>
+		<audio ID = "S67">
+			<string dialogue = "You know… after much careful deliberation... I decided that you are not worth my time. I’m gonna find squirrels that are more interesting to stalk. See you… never."></string>
+			<location location = "documents"></location>
+		</audio>
+		<audio ID = "S67.1">
+			<string dialogue = "Ouch. Well, that escalated quickly."></string>
+			<location location = "documents"></location>
+		</audio>
+	</stalker>
+	<stalker num = "wedding">
+		<audio ID = "S68">
+			<string dialogue = "I knew it was a good idea to stalk you. Usually when I stalk someone I like, it ends up with him placing a restraining order on me..."></string>
+			<location location = "documents"></location>
+		</audio>
+		<audio ID = "S69">
+			<string dialogue = "... I’m watching you…"></string>
+			<location location = "documents"></location>
+		</audio>
+		<audio ID = "S83.5">
+			<string dialogue = "So… have you changed at all since we met… or got together…?"></string>
+			<location location = "documents"></location>
+		</audio>
+		<audio ID = "S84">
+			<string dialogue = "I noticed that you use Colgate when you brush your teeth… I used to use Crest.... Then I switched to Colgate too…"></string>
+			<location location = "documents"></location>
+		</audio>
+		<audio ID = "S85">
+			<string dialogue = "This song is dedicated to you… Baby."></string>
+			<location location = "documents"></location>
+		</audio>
+		<audio ID = "S86">
+			<string dialogue = "Every breath you take…"></string>
+			<location location = "documents"></location>
+		</audio>
+		<audio ID = "S87">
+			<string dialogue = "Ugh… What did I get myself into??"></string>
+			<location location = "documents"></location>
+		</audio>
+	</stalker>
+</configuration>
+</Data>
+

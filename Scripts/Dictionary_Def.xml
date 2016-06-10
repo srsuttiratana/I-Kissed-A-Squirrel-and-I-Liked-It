@@ -1,7 +1,8 @@
 <Definition root="Data">
 
-	<Table name="Dictionary"/>
-		<Array name="Words" elementName="Value"/>
+	<Table name="Dictionary">
+		<Array name="Words" elementName="Value">
+		</Array>
 	</Table>
 
 </Definition>
